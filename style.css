@@ -37,7 +37,7 @@ body {
 }
 /* secao sobre nos*/
 .sobre_nos{
-    background-image: linear-gradient(#0713b9,#1328a1b4);
+    background-image: linear-gradient(#0c21db,#1328a1b4);
     color:#FFFFFF;
     display: flex;
     justify-content: center;
@@ -68,7 +68,7 @@ body {
 }
 
 .lojas-titulo{
-color: #3B0050;
+color: #1d09d1;
 text-align: center;
 padding: 50px;
 font-size: 45px;
@@ -133,7 +133,7 @@ body {
 
 /* secao cabecalho*/
 .cabecalho {
-    background-color: #3B0050;
+    background-color: #1230da;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -160,7 +160,7 @@ body {
 }
 /* secao sobre nos*/
 .sobre_nos{
-    background-image: linear-gradient(#3B0050,#3b00501f);
+    background-image: linear-gradient(#4920dd,#3b00501f);
     color:#FFFFFF;
     display: flex;
     justify-content: center;
